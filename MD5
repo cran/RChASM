@@ -1,7 +1,7 @@
-d534d02d65af163c7baa36bc1a0b0dc7 *DESCRIPTION
+adbbbcc0c1dc5611cd41a905f0008329 *DESCRIPTION
 0b5a3b8a2c25bb1c263bb687060e7291 *LICENSE
 20d9a5c8b7a95787ba9b94900fdcd19e *NAMESPACE
-184f3cb1e7e332d69ca8b9f66789f294 *NEWS.md
+09e0b54af7b6da62c9a1544cdb011965 *NEWS.md
 0f7cd2c897528c8dcd879917b548d14f *R/adjustA.R
 56658dbd7a02d174794f8df19a4abc34 *R/bound.R
 80ff59aaadf765f025d08a3f19fb1e69 *R/callKaryotypes.R
@@ -24,9 +24,10 @@ b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
 c8e8d08380ee3a499ec02619c5860153 *README.md
 cbffd69212532b2278f161ec88206c02 *build/vignette.rds
 b799ae841ec72ad0e25de9b41f5ff0aa *data/example_data.rda
-663eea0e3bd822f1093daf53c8e132bf *inst/doc/example_analysis.R
-852e9dd596d66af79c672924ceed87c2 *inst/doc/example_analysis.Rmd
-79aab5839064e5823dafeab13d54a9a8 *inst/doc/example_analysis.html
+19d0e1f538aefd7ff012de795a1224b1 *inst/doc/example_analysis.R
+f5a60a298b48d804ba86191522296dbb *inst/doc/example_analysis.Rmd
+491a09c1423e561d803077555b4be339 *inst/doc/example_analysis.html
+1bcb1f9f8fd50ecd040a652af9ada7de *inst/extdata/CHASM_input.sh
 74e21f7dda7d3b615b89a4ed1a73ba47 *inst/extdata/example_data.tsv
 ec9649cb145e7859d2fa0de239ddbfb2 *man/adjustA.Rd
 794fa4b7c170cac80284417df936f721 *man/bound.Rd
@@ -48,4 +49,4 @@ ec54ba6dc3ffaa9384725ca4e3f7b9a5 *man/processReadCounts.Rd
 64e71cbf0dfbc1f7eea3f84cedea4973 *man/runChASM.Rd
 8cf6ff72a76e0760cff5e0b8bb587319 *man/saveChASM.Rd
 aa0e1cc2157247b1df110267eb1fe12c *man/summary_calls.Rd
-852e9dd596d66af79c672924ceed87c2 *vignettes/example_analysis.Rmd
+f5a60a298b48d804ba86191522296dbb *vignettes/example_analysis.Rmd

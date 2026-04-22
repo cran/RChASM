@@ -43,7 +43,6 @@ plot_diagnostic(
   addLabels = TRUE
 )
 
-
 ## ----fig.dim=c(7.2,5),warning=FALSE-------------------------------------------
 plot_diagnostic(
   IDs = c('Ind_4_1', 'Ind_66_1'),
@@ -52,11 +51,8 @@ plot_diagnostic(
 )
 
 ## ----eval=FALSE---------------------------------------------------------------
-# bash
-# CHASM_input - i
-# Input_Bams.txt - o
-# Output_Table.tsv
-
-## ----eval=FALSE---------------------------------------------------------------
 # example_data <- readr::read_tsv('/path_to_folder/Output_Table.tsv')
+
+## ----eval = FALSE-------------------------------------------------------------
+# system.file("extdata", "CHASM_input.sh", package = "RChASM")
 
